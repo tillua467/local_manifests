@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<manifest>
+
+    <!-- Remotes -->
+    <remote name="tillua467" fetch="https://github.com/tillua467" />
+    <remote name="xiaomi-sm6150-phoenix" fetch="https://github.com/xiaomi-sm6150-phoenix" />
+    <remote name="xiaomi-sm6150" fetch="https://github.com/xiaomi-sm6150" />
+    <remote name="hraj9258" fetch="https://github.com/hraj9258" />
+
+
+    <!-- Device Tree -->
+    <project path="device/xiaomi/sm6150" name="android_device_xiaomi_phoenix" remote="tillua467" revision="ursa" />
+    
+    <!-- Kernel -->
+    <project path="kernel/xiaomi/sm6150" name="android_kernel_xiaomi_sm6150" remote="tillua467" revision="lineage-21" />
+    
+    <!-- Common Device Tree -->
+    <project path="device/xiaomi/sm6150-common" name="android_device_xiaomi_sm6150-common" remote="tillua467" revision="lineage-21" />
+    
+    <!-- Proprietary Vendor -->
+    <project path="vendor/xiaomi/phoenix" name="proprietary_vendor_xiaomi_phoenix" remote="tillua467" revision="lineage-21" />
+    
+    <!-- Common Vendor -->
+    <project path="vendor/xiaomi/sm6150-common" name="proprietary_vendor_xiaomi_sm6150-common" remote="tillua467" revision="lineage-21" />
+
+    <!-- Hardware -->
+    <project path="xiaomi-sm6150-phoenix" name="android_hardware_xiaomi"  revision="lineage-21" />
+
+</manifest>
