@@ -8,15 +8,15 @@ The Xiaomi Redmi K30 / Poco X2 (codenamed _"phoenix / phoenixin"_) are mid range
 
 Redmi K30 was announced and released in December 2019, while Poco X2 was announced and released in February 2020.
 
-The tress used/forked and their Directories 
+## The tress used/forked and their Directories 
 
-DT https://github.com/xiaomi-sm6150-phoenix/android_device_xiaomi_phoenix.git b- ursa device/xiaomi/sm6150
-KT https://github.com/xiaomi-sm6150/android_kernel_xiaomi_sm6150.git b- lineage-21 kernel/xiaomi/sm6150
-CDT https://github.com/xiaomi-sm6150/android_device_xiaomi_sm6150-common.git b- lineage-21 device/xiaomi/sm6150-common
-CVT https://github.com/xiaomi-sm6150/proprietary_vendor_xiaomi_sm6150-common.git b- lineage-21 device/xiaomi/sm6150-common
-VT https://github.com/hraj9258/proprietary_vendor_xiaomi_phoenix.git b- lineage-21 vendor/xiaomi/phoenix
+DT https://github.com/xiaomi-sm6150-phoenix/android_device_xiaomi_phoenix.git b- ursa device/xiaomi/sm6150.
+KT https://github.com/xiaomi-sm6150/android_kernel_xiaomi_sm6150.git b- lineage-21 kernel/xiaomi/sm6150.
+CDT https://github.com/xiaomi-sm6150/android_device_xiaomi_sm6150-common.git b- lineage-21 device/xiaomi/sm6150-common.
+CVT https://github.com/xiaomi-sm6150/proprietary_vendor_xiaomi_sm6150-common.git b- lineage-21 device/xiaomi/sm6150-common.
+VT https://github.com/hraj9258/proprietary_vendor_xiaomi_phoenix.git b- lineage-21 vendor/xiaomi/phoenix.
 
-All credit goes to them 
+All credit goes to them .
 
 ## Device specifications
 
