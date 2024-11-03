@@ -1,7 +1,7 @@
 crave run --no-patch -- "rm -rf .repo/local_manifests; \
-repo init -u https://github.com/Evolution-X/manifest.git; \
-git clone https://github.com/tillua467/local_manifests.git; \ 
+repo init -u https://github.com/Evolution-X/manifest -b udc --git-lfs; \
+git clone https://github.com/tillua467/local_manifests.git .repo/local_manifests; \
 /opt/crave/resync.sh; \
 .build/envsetup.sh; \
-lunch lineage_$phoenix-userdebug; \ 
+lunch lineage_phoenix-userdebug; \
 m evolution"
