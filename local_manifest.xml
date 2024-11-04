@@ -8,6 +8,8 @@
     <remote name="xiaomi-sm6150-phoenix" fetch="https://github.com/xiaomi-sm6150-phoenix" />
     <remote name="xiaomi-sm6150" fetch="https://github.com/xiaomi-sm6150" />
     <remote name="hraj9258" fetch="https://github.com/hraj9258" />
+    <remote name="LineageOS" fetch="https://github.com/LineageOS" />
+    
 
 
     <!-- Device Tree -->
@@ -26,6 +28,6 @@
     <project path="vendor/xiaomi/sm6150-common" name="proprietary_vendor_xiaomi_sm6150-common" remote="tillua467" revision="lineage-21" />
 
     <!-- Hardware -->
-    <project path="xiaomi/hardware" name="android_hardware_xiaomi" remote="xiaomi-sm6150-phoenix" revision="lineage-21" />
+    <project path="xiaomi/hardware" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-21" />
 
 </manifest>
