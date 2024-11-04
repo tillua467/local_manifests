@@ -9,6 +9,10 @@
     <remote name="xiaomi-sm6150" fetch="https://github.com/xiaomi-sm6150" />
     <remote name="hraj9258" fetch="https://github.com/hraj9258" />
     <remote name="LineageOS" fetch="https://github.com/LineageOS" />
+    <remote name="jaymistry258" fetch="https://github.com/jaymistry258" />
+
+
+
     
 
 
@@ -29,5 +33,8 @@
 
     <!-- Hardware -->
     <project path="xiaomi/hardware" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-21" />
+    
+    <!-- MIUI-CAM -->
+    <project path="vendor/xiaomi/phoenix-miuicamera" name="device_xiaomi_phoenix-miuicamera" remote="jaymistry258" revision="thirteen" />
 
 </manifest>
