@@ -22,6 +22,8 @@ VT https://github.com/hraj9258/proprietary_vendor_xiaomi_phoenix.git b- lineage-
 
 Hardware: https://github.com/LineageOS/android_hardware_xiaomi.git b- lineage-21 xiaomi/hardware.
 
+MIUI-CAM: https://github.com/jaymistry258/device_xiaomi_phoenix-miuicamera b- thirteen vendor/xiaomi/phoenix-miuicamera
+
 All credit goes to them .
 
 ## Device specifications
