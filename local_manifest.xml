@@ -11,7 +11,7 @@
 
 
     <!-- Device Tree -->
-    <project path="device/xiaomi/sm6150" name="android_device_xiaomi_phoenix" remote="tillua467" revision="ursa" />
+    <project path="device/xiaomi/phoenix" name="android_device_xiaomi_phoenix" remote="tillua467" revision="ursa" />
     
     <!-- Kernel -->
     <project path="kernel/xiaomi/sm6150" name="android_kernel_xiaomi_sm6150" remote="tillua467" revision="lineage-21" />
@@ -26,6 +26,6 @@
     <project path="vendor/xiaomi/sm6150-common" name="proprietary_vendor_xiaomi_sm6150-common" remote="tillua467" revision="lineage-21" />
 
     <!-- Hardware -->
-    <project path="hardware/xiaomi/sm6150" name="android_hardware_xiaomi" remote="xiaomi-sm6150-phoenix" revision="lineage-21" />
+    <project path="hardware/qcom-caf/sm6150" name="android_hardware_xiaomi" remote="xiaomi-sm6150-phoenix" revision="lineage-21" />
 
 </manifest>
