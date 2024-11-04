@@ -26,6 +26,6 @@
     <project path="vendor/xiaomi/sm6150-common" name="proprietary_vendor_xiaomi_sm6150-common" remote="tillua467" revision="lineage-21" />
 
     <!-- Hardware -->
-    <project path="hardware/qcom-caf/sm6150" name="android_hardware_xiaomi" remote="xiaomi-sm6150-phoenix" revision="lineage-21" />
+    <project path="xiaomi/hardware" name="android_hardware_xiaomi" remote="xiaomi-sm6150-phoenix" revision="lineage-21" />
 
 </manifest>
