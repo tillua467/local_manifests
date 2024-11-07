@@ -18,7 +18,7 @@ CDT https://github.com/xiaomi-sm6150/android_device_xiaomi_sm6150-common.git b- 
 
 CVT https://github.com/xiaomi-sm6150/proprietary_vendor_xiaomi_sm6150-common.git b- lineage-21 device/xiaomi/sm6150-common.
 
-VT https://github.com/hraj9258/proprietary_vendor_xiaomi_phoenix.git b- lineage-21 vendor/xiaomi/phoenix.
+VT https://github.com/xiaomi-sm6150/proprietary_vendor_xiaomi_phoenix.git b- lineage-21 vendor/xiaomi/phoenix.
 
 Hardware: https://github.com/LineageOS/android_hardware_xiaomi.git b- lineage-21 xiaomi/hardware.
 
