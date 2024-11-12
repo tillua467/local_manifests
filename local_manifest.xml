@@ -17,7 +17,7 @@
 
 
     <!-- Device Tree -->
-    <project path="device/xiaomi/phoenix" name="android_device_xiaomi_phoenix" remote="tillua467" revision="ursa" />
+    <project path="device/xiaomi/phoenix" name="android_device_xiaomi_phoenix-1" remote="tillua467" revision="lineage-21" />
     
     <!-- Kernel -->
     <project path="kernel/xiaomi/sm6150" name="android_kernel_xiaomi_sm6150" remote="tillua467" revision="lineage-21" />
@@ -35,6 +35,8 @@
     <project path="xiaomi/hardware" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-21" />
     
     <!-- MIUI-CAM -->
-    <project path="vendor/xiaomi/phoenix-miuicamera" name="device_xiaomi_phoenix-miuicamera" remote="jaymistry258" revision="thirteen" />
+  <!--  <project path="vendor/xiaomi/phoenix-miuicamera" name="device_xiaomi_phoenix-miuicamera" remote="jaymistry258" revision="thirteen" />
 
+Experiment build is running i will try to add this after the rom boots
+-->
 </manifest>
