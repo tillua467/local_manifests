@@ -33,7 +33,7 @@
     <project path="vendor/xiaomi/sm6150-common" name="proprietary_vendor_xiaomi_sm6150-common" remote="tillua467" revision="lineage-21" />
 
     <!-- Hardware -->
-    <project path="xiaomi/hardware" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-21" />
+    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-21" />
     
     <!-- MIUI-CAM -->
   <!--  <project path="vendor/xiaomi/phoenix-miuicamera" name="device_xiaomi_phoenix-miuicamera" remote="jaymistry258" revision="thirteen" />
