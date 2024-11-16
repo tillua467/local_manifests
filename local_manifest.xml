@@ -21,7 +21,7 @@
     <project path="device/xiaomi/phoenix" name="android_device_xiaomi_phoenix-1" remote="tillua467" revision="lineage-21" />
     
     <!-- Kernel -->
-    <project path="kernel/xiaomi/sm6150" name="android_kernel_xiaomi_sm6150" remote="tillua467" revision="lineage-21" />
+    <project path="kernel/xiaomi/sm6150" name="android_kernel_xiaomi_sm6150" remote="LineageOS" revision="lineage-21" />
     
     <!-- Common Device Tree -->
     <project path="device/xiaomi/sm6150-common" name="android_device_xiaomi_sm6150-common" remote="aosp-phoenix" revision="lineage-21" />
