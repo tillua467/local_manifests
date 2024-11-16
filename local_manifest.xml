@@ -24,10 +24,10 @@
     <project path="kernel/xiaomi/sm6150" name="android_kernel_xiaomi_sm6150" remote="tillua467" revision="lineage-21" />
     
     <!-- Common Device Tree -->
-    <project path="device/xiaomi/sm6150-common" name="android_device_xiaomi_sm6150-common" remote="tillua467" revision="lineage-21" />
+    <project path="device/xiaomi/sm6150-common" name="android_device_xiaomi_sm6150-common" remote="aosp-phoenix" revision="lineage-21" />
     
     <!-- Proprietary Vendor -->
-    <project path="vendor/xiaomi/phoenix" name="proprietary_vendor_xiaomi_phoenix" remote="xiaomi-sm6150" revision="lineage-20" />
+    <project path="vendor/xiaomi/phoenix" name="proprietary_vendor_xiaomi_phoenix" remote="aosp-phoenix" revision="lineage-21" />
     
     <!-- Common Vendor -->
     <project path="vendor/xiaomi/sm6150-common" name="proprietary_vendor_xiaomi_sm6150-common" remote="tillua467" revision="lineage-21" />
