@@ -12,6 +12,7 @@
     <remote name="jaymistry258" fetch="https://github.com/jaymistry258" />
     <remote name="aosp-phoenix" fetch="https://github.com/aosp-phoenix" />
     <remote name="Evolution-X-Devices" fetch="https://github.com/Evolution-X-Devices" />
+    <remote name="TheMuppets" fetch="https://github.com/TheMuppets" />
 
 
 
@@ -32,7 +33,7 @@
     <project path="vendor/xiaomi/phoenix" name="proprietary_vendor_xiaomi_phoenix" remote="aosp-phoenix" revision="lineage-21" />
     
     <!-- Common Vendor -->
-    <project path="vendor/xiaomi/sm6150-common" name=" vendor_xiaomi_sm6150-common" remote="Evolution-X-Devices" revision="udc" />
+    <project path="vendor/xiaomi/sm6150-common" name="proprietary_vendor_xiaomi_sm6150-common" remote="TheMuppets" revision="lineage-21" />
 
     <!-- Hardware -->
     <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-21" />
