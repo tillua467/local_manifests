@@ -13,6 +13,7 @@
     <remote name="aosp-phoenix" fetch="https://github.com/aosp-phoenix" />
     <remote name="Evolution-X-Devices" fetch="https://github.com/Evolution-X-Devices" />
     <remote name="TheMuppets" fetch="https://github.com/TheMuppets" />
+    <remote name="aospa-phoenix" fetch="https://github.com/aospa-phoenix" />
 
 
 
@@ -24,13 +25,13 @@
     <project path="device/xiaomi/phoenix" name="device_xiaomi_phoenix-2" remote="tillua467" revision="evox" />
     
     <!-- Kernel -->
-    <project path="kernel/xiaomi/sm6150" name="android_kernel_xiaomi_sm6150" remote="aosp-phoenix" revision="a15" />
+    <project path="kernel/xiaomi/sm6150" name="android_kernel_xiaomi_sm6150" remote="aospa-phoenix" revision="vic" />
     
     <!-- Common Device Tree -->
     <project path="device/xiaomi/sm6150-common" name="device_xiaomi_sm6150-common" remote="Evolution-X-Devices" revision="udc" />
     
     <!-- Proprietary Vendor -->
-    <project path="vendor/xiaomi/phoenix" name="proprietary_vendor_xiaomi_phoenix" remote="aosp-phoenix" revision="a15" />
+    <project path="vendor/xiaomi/phoenix" name="proprietary_vendor_xiaomi_phoenix" remote="aospa-phoenix" revision="vic" />
     
     <!-- Common Vendor -->
     <project path="vendor/xiaomi/sm6150-common" name="proprietary_vendor_xiaomi_sm6150-common" remote="aosp-phoenix" revision="a15" />
