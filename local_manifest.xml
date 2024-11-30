@@ -22,13 +22,13 @@
 
 
     <!-- Device Tree -->
-    <project path="device/xiaomi/phoenix" name="device_xiaomi_phoenix-2" remote="tillua467" revision="evox" />
+    <project path="device/xiaomi/phoenix" name="phoenix-device-tree" remote="tillua467" revision="vic" />
     
     <!-- Kernel -->
     <project path="kernel/xiaomi/sm6150" name="android_kernel_xiaomi_sm6150" remote="aospa-phoenix" revision="vic" />
     
     <!-- Common Device Tree -->
-    <project path="device/xiaomi/sm6150-common" name="android_device_xiaomi_sm6150-common" remote="aospa-phoenix" revision="vic" />
+    <project path="device/xiaomi/sm6150-common" name="sm6150-common-tree" remote="tillua467" revision="vic" />
     
     <!-- Proprietary Vendor -->
     <project path="vendor/xiaomi/phoenix" name="proprietary_vendor_xiaomi_phoenix" remote="aospa-phoenix" revision="vic" />
@@ -37,7 +37,7 @@
     <project path="vendor/xiaomi/sm6150-common" name="proprietary_vendor_xiaomi_sm6150-common" remote="aosp-phoenix" revision="a15" />
 
     <!-- Hardware -->
-    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-21" />
+    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-22.0" />
     
     <!-- MIUI-CAM -->
   <!-- 
