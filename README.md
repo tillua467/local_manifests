@@ -10,17 +10,17 @@ Redmi K30 was announced and released in December 2019, while Poco X2 was announc
 
 ## The tress used/forked and their Directories 
 
-DT https://github.com/xiaomi-sm6150-phoenix/android_device_xiaomi_phoenix.git b- ursa device/xiaomi/sm6150.
+DT https://github.com/tillua467/phoenix-device-tree b- vic device/xiaomi/phoenix.
 
-KT https://github.com/xiaomi-sm6150/android_kernel_xiaomi_sm6150.git b- lineage-21 kernel/xiaomi/sm6150.
+KT https://github.com/aospa-phoenix/android_kernel_xiaomi_sm6150 b- vic kernel/xiaomi/sm6150.
 
-CDT https://github.com/xiaomi-sm6150/android_device_xiaomi_sm6150-common.git b- lineage-21 device/xiaomi/sm6150-common.
+CDT https://github.com/tillua467/sm6150-common-tree b- vic device/xiaomi/sm6150-common.
 
-CVT https://github.com/xiaomi-sm6150/proprietary_vendor_xiaomi_sm6150-common.git b- lineage-21 device/xiaomi/sm6150-common.
+CVT https://github.com/aosp-phoenix/proprietary_vendor_xiaomi_sm6150-common b- a15 vendor/xiaomi/sm6150-common.
 
-VT https://github.com/xiaomi-sm6150/proprietary_vendor_xiaomi_phoenix.git b- lineage-21 vendor/xiaomi/phoenix.
+VT https://github.com/aospa-phoenix/proprietary_vendor_xiaomi_phoenix b- vic vendor/xiaomi/phoenix.
 
-Hardware: https://github.com/LineageOS/android_hardware_xiaomi.git b- lineage-21 xiaomi/hardware.
+Hardware: https://github.com/LineageOS/android_hardware_xiaomi.git b- lineage-22 xiaomi/hardware.
 
 MIUI-CAM: https://github.com/jaymistry258/device_xiaomi_phoenix-miuicamera b- thirteen vendor/xiaomi/phoenix-miuicamera
 
