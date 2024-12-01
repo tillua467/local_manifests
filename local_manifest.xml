@@ -22,7 +22,7 @@
 
 
     <!-- Device Tree -->
-    <project path="device/xiaomi/phoenix" name="lineage_phoenix" remote="tillua467" revision="lineage-21" />
+    <project path="device/xiaomi/phoenix" name="phoenix-device-tree" remote="tillua467" revision="vic" />
     
     <!-- Kernel -->
     <project path="kernel/xiaomi/sm6150" name="android_kernel_xiaomi_sm6150" remote="aospa-phoenix" revision="vic" />
