@@ -32,7 +32,7 @@
     <project path="device/xiaomi/sm6150-common" name="android_device_xiaomi_sm6150-common-1" remote="tillua467" revision="lineage-22.0" />
     
     <!-- Proprietary Vendor -->
-    <project path="vendor/xiaomi/phoenix" name="proprietary_vendor_xiaomi_phoenix" remote="xiaomi-sm6150" revision="lineage-20" />
+    <project path="vendor/xiaomi/phoenix" name="android_vendor_xiaomi_phoenix" remote="xiaomi-sm6150-phoenix" revision="ursa" />
     
     <!-- Common Vendor -->
     <project path="vendor/xiaomi/sm6150-common" name="proprietary_vendor_xiaomi_sm6150-common" remote="aosp-phoenix" revision="a15" />
