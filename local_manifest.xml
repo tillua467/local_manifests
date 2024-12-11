@@ -36,10 +36,6 @@
     
     <!-- Common Vendor -->
     <project path="vendor/xiaomi/sm6150-common" name="proprietary_vendor_xiaomi_sm6150-common" remote="aosp-phoenix" revision="a15" />
-
-    <!-- libcrypto_shim -->
-    <project path="system/core" name="android_system_core" remote="LineageOS" revision="lineage-22.0" />
-
     <!-- Hardware -->
     <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-22.0" />
     
