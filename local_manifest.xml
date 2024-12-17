@@ -15,6 +15,7 @@
     <remote name="TheMuppets" fetch="https://github.com/TheMuppets" />
     <remote name="aospa-phoenix" fetch="https://github.com/aospa-phoenix" />
     <remote name="Evolution-X" fetch="https://github.com/Evolution-X" />
+    <remote name="Shripal17" fetch="https://gitlab.com/Shripal17" />
 
 
 
@@ -41,9 +42,8 @@
     <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-22.0" />
     
     <!-- MIUI-CAM -->
-  <!-- 
-    <project path="vendor/xiaomi/phoenix-miuicamera" name="device_xiaomi_phoenix-miuicamera" remote="jaymistry258" revision="thirteen" />
+    <project path="vendor/xiaomi/miuicamera" name="vendor_xiaomi_miuicamera" remote="Shripal17" revision="fifteen-leica" />
 
-    Experiment build is running i will try to add this after the rom boots
--->
+    <!-- v4x -->
+    <project path="packages/apps/ViPER4AndroidFX" name="Gtajisan/packages_apps_ViPER4AndroidFX" remote="github" revision="v4a" />
 </manifest>
