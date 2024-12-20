@@ -16,6 +16,7 @@
     <remote name="aospa-phoenix" fetch="https://github.com/aospa-phoenix" />
     <remote name="Evolution-X" fetch="https://github.com/Evolution-X" />
     <remote name="Shripal17" fetch="https://gitlab.com/Shripal17" />
+    <remote name="rom-vayu" fetch="https://github.com/rom-vayu" />
 
 
 
@@ -39,7 +40,7 @@
     <project path="vendor/xiaomi/sm6150-common" name="vendor_sm6150-common" remote="tillua467" revision="a15" />
    
     <!-- Hardware -->
-    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-22.0" />
+    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="rom-vayu" revision="lineage-22.0" />
     
     <!-- MIUI-CAM -->
     <project path="vendor/xiaomi/miuicamera" name="vendor_xiaomi_miuicamera" remote="Shripal17" revision="fifteen-leica" />
