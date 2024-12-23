@@ -47,4 +47,5 @@
 
     <!-- v4x -->
     <project path="packages/apps/ViPER4AndroidFX" name="Gtajisan/packages_apps_ViPER4AndroidFX" remote="github" revision="v4a" />
+    
 </manifest>
