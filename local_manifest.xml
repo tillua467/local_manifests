@@ -33,7 +33,7 @@
     <project path="device/xiaomi/sm6150-common" name="sm6150-common" remote="tillua467" revision="a15" />
     
     <!-- Proprietary Vendor -->
-    <project path="vendor/xiaomi/phoenix" name="proprietary_vendor_xiaomi_phoenix" remote="aosp-phoenix" revision="a15" />
+    <project path="vendor/xiaomi/phoenix" name="proprietary_vendor_xiaomi_phoenix" remote="aosp-phoenix" revision="pos-14" />
     
     <!-- Common Vendor -->
     <project path="vendor/xiaomi/sm6150-common" name="vendor_sm6150-common" remote="tillua467" revision="a15" />
