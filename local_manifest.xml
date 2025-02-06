@@ -3,27 +3,19 @@
 
     <!-- Remotes -->
     <remote name="tillua467" fetch="https://github.com/tillua467" />
-    <remote name="xiaomi-sm6150-phoenix" fetch="https://github.com/xiaomi-sm6150-phoenix" />
     <remote name="xiaomi-sm6150" fetch="https://github.com/xiaomi-sm6150" />
-    <remote name="hraj9258" fetch="https://github.com/hraj9258" />
     <remote name="LineageOS" fetch="https://github.com/LineageOS" />
-    <remote name="jaymistry258" fetch="https://github.com/jaymistry258" />
     <remote name="aosp-phoenix" fetch="https://github.com/aosp-phoenix" />
-    <remote name="Evolution-X-Devices" fetch="https://github.com/Evolution-X-Devices" />
-    <remote name="TheMuppets" fetch="https://github.com/TheMuppets" />
-    <remote name="aospa-phoenix" fetch="https://github.com/aospa-phoenix" />
-    <remote name="Evolution-X" fetch="https://github.com/Evolution-X" />
     <remote name="Shripal17" fetch="https://gitlab.com/Shripal17" />
-    <remote name="rom-vayu" fetch="https://github.com/rom-vayu" />
 
     <!-- Device Tree -->
-    <project path="device/xiaomi/phoenix" name="phoenix-dt" remote="tillua467" revision="pos-15" />
+    <project path="device/xiaomi/phoenix" name="phoenix-dt" remote="tillua467" revision="los-22.1" />
     
     <!-- Kernel -->
     <project path="kernel/xiaomi/sm6150" name="android_kernel_xiaomi_sm6150" remote="xiaomi-sm6150" revision="lineage-22.1" />
     
     <!-- Common Device Tree -->
-    <project path="device/xiaomi/sm6150-common" name="sm6150-common" remote="tillua467" revision="pos-15" />
+    <project path="device/xiaomi/sm6150-common" name="android_device_xiaomi_sm6150-common" remote="aosp-phoenix" revision="lineage-22.1" />
     
     <!-- Proprietary Vendor -->
     <project path="vendor/xiaomi/phoenix" name="proprietary_vendor_xiaomi_phoenix" remote="aosp-phoenix" revision="lineage-22.1" />
