@@ -21,7 +21,7 @@
     <project path="vendor/xiaomi/phoenix" name="proprietary_vendor_xiaomi_phoenix" remote="aosp-phoenix" revision="lineage-22.1" />
     
     <!-- Common Vendor -->
-    <project path="vendor/xiaomi/sm6150-common" name="vendor_sm6150-common" remote="aosp-phoenix" revision="lineage-22.1" />
+    <project path="vendor/xiaomi/sm6150-common" name="proprietary_vendor_xiaomi_sm6150-common" remote="aosp-phoenix" revision="lineage-22.1" />
    
     <!-- Hardware -->
     <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-22.1" />
